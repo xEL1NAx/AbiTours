@@ -78,4 +78,4 @@ Das Projekt **Abi-Tours** war ein erfolgreicher Einstieg in die reale Softwareen
 
 ---
 
-> Dieses Projekt wurde im Rahmen des IT-Abiturs Baden-Württemberg 2025 am Beruflichen Gymnasium durchgeführt.
+> Dieses Projekt wurde im Rahmen eines IT Projekt in Baden-Württemberg 2025 am Beruflichen Gymnasium durchgeführt.
