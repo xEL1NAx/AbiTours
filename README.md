@@ -1,4 +1,4 @@
-# Abi-Tours – Schülerprojekt (IT-Abitur)
+# Abi-Tours – Schulprojekt
 
 **Abi-Tours** ist ein praxisorientiertes Softwareprojekt zur Verwaltung von Kursfahrten, das im Rahmen des IT-Abiturs am beruflichen Gymnasium durchgeführt wurde. Ziel war es, Projektmanagement-Tools anzuwenden, eine Java-basierte Software zu entwickeln und alle Phasen eines Softwareprojekts zu durchlaufen.
 
