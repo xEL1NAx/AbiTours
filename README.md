@@ -43,7 +43,7 @@ Das Projekt wurde innerhalb weniger Wochen zwischen Juni und Juli 2025 umgesetzt
 
 - **Anforderungsabgabe:** 27. Juni 2025  
 - **Programmierabgabe:** 10. Juli 2025  
-- **Endabgabe:** 14. Juli 2025  
+- **Endabgabe:** 17. Juli 2025  
 
 ---
 
@@ -63,7 +63,7 @@ Das Projekt wurde innerhalb weniger Wochen zwischen Juni und Juli 2025 umgesetzt
 
 ---
 
-## 📝 Abschlussbericht (Kurzfassung)
+## 📝 Abschlussbericht
 
 - Planung mittels Strukturplan und Gantt-Diagramm
 - GUI wurde iterativ umgesetzt und an das Design angepasst
