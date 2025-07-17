@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Kunde
+comment1.params=pName
+comment1.target=Kunde(java.lang.String)
+comment10.params=
+comment10.target=int\ rechneBuchungenAb()
+comment11.params=
+comment11.target=java.util.List\ gibAlleBuchungen()
+comment2.params=
+comment2.target=int\ gibKundenNr()
+comment3.params=
+comment3.target=java.lang.String\ gibName()
+comment4.params=neu
+comment4.target=void\ setName(java.lang.String)
+comment5.params=
+comment5.target=int\ gibAnzBuchungen()
+comment6.params=pAngebot
+comment6.target=void\ eintragenBuchung(Angebot)
+comment7.params=pAngebot
+comment7.target=boolean\ loescheBuchung(Angebot)
+comment8.params=idx
+comment8.target=java.lang.String\ gibBuchungAlsText(int)
+comment9.params=nurDurchgefuehrte
+comment9.target=int\ berechneKosten(boolean)
+numComments=12

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Kurs
+comment1.params=pTitel\ pDatum\ pAnzTage\ pPreis\ pMinAnzTN\ pMaxAnzTN
+comment1.target=Kurs(java.lang.String,\ java.time.LocalDate,\ int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ aktualisiereZustand()
+comment3.params=min
+comment3.target=void\ setMinAnzTeiln(int)
+comment4.params=d
+comment4.target=void\ setDauer(int)
+comment5.params=
+comment5.target=int\ gibMinAnzTeiln()
+comment6.params=
+comment6.target=int\ gibDauer()
+comment7.params=
+comment7.target=java.lang.String\ gibAlleDatenAlsTextzeile()
+numComments=8
