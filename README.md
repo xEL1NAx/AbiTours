@@ -72,16 +72,6 @@ Das Projekt wurde innerhalb weniger Wochen zwischen Juni und Juli 2025 umgesetzt
 
 ---
 
-## 📎 Anhang (im Projekt enthalten)
-
-- `Projektstrukturplan.ods`  
-- `GanttDiagramm.ods`  
-- `Klassendiagramm.jpg/png`  
-- `Bericht1–4.docx/pdf`  
-- `AbschlussBericht.docx/pdf`  
-
----
-
 ## 🔚 Fazit
 
 Das Projekt **Abi-Tours** war ein erfolgreicher Einstieg in die reale Softwareentwicklung. Es zeigte die Wichtigkeit von Planung, Teamarbeit und sauberem Code.
