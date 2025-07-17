@@ -3,5 +3,5 @@ READ-ME
 ------------------------------------------------------------------------
 
 PROJECT TITLE: Abi-Tours Management Software
-VERSION or DATE: v0.9
+VERSION: v0.9 (25P177)
 AUTHORS: Elina Wolf
