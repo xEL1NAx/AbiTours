@@ -5,7 +5,7 @@
 ## 👥 Projektteam
 
 - Elina Wolf  
-- J. Charline Regauer  
+- Charly Regauer  
 - Anton Kochner
 
 ## 🎯 Projektziele
